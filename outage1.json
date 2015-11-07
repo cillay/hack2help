@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [35.963813, -79.061930],
+            [35.961969, -79.059906],
+            [35.960421, -79.059426],
+            [35.962409, -79.061127]
+          ]
+        ]
+      },
+      "properties": {
+        "customersAffected": 38,
+        "startedAt": "2015-11-06T09:49:00-05:00",
+        "cause": "Gus crashed in a tree",
+        "etr_start": "2015-11-06T12:00:00-05:00",
+        "etr_end": "2015-11-06T16:00:00-05:00",
+        "crewStatus": "Working"
+      }
+    }
+  ]
+}
